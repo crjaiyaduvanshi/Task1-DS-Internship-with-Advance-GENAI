@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/crjaiyaduvanshi/Task1-DS-Internship-with-Advance-GENAI/tree/master/0338-counting-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/crjaiyaduvanshi/Task1-DS-Internship-with-Advance-GENAI/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/crjaiyaduvanshi/Task1-DS-Internship-with-Advance-GENAI/tree/master/1486-xor-operation-in-an-array) |
 ## Heap (Priority Queue)
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/crjaiyaduvanshi/Task1-DS-Internship-with-Advance-GENAI/tree/master/0338-counting-bits) |
 | [1395-count-number-of-teams](https://github.com/crjaiyaduvanshi/Task1-DS-Internship-with-Advance-GENAI/tree/master/1395-count-number-of-teams) |
 ## Binary Indexed Tree
 |  |
