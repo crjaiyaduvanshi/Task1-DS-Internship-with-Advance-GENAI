@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/crjaiyaduvanshi/Task1-DS-Internship-with-Advance-GENAI/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1395-count-number-of-teams](https://github.com/crjaiyaduvanshi/Task1-DS-Internship-with-Advance-GENAI/tree/master/1395-count-number-of-teams) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/crjaiyaduvanshi/Task1-DS-Internship-with-Advance-GENAI/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/crjaiyaduvanshi/Task1-DS-Internship-with-Advance-GENAI/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/crjaiyaduvanshi/Task1-DS-Internship-with-Advance-GENAI/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
